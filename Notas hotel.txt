@@ -1,0 +1,22 @@
+
+# Vistas que sirven
+- Disponibilidad, ocupación y desocupación en un dataset. Vista 2
+- Vista 7a
+- Vista 8a
+- Vista 10a
+- Vista 11a
+
+
+
+## A considerar
+
+
+# Dudas:
+- Sobre disponibilidad
+
+
+
+# Notas:
+- Necesitamos oferta y demanda
+- Gasto promedio a usar: Se usará el gasto promedio publicado por la sectur en el pdf 
+'Indicadores de la actividad turística 2021'. 1271 pesos.
